@@ -1,0 +1,32 @@
+{
+    "files.autoSave": "afterDelay",
+    // in setting, search autosave and set "Files: Auto Save Delay" 100
+    "files.autoGuessEncoding": true,
+    "editor.mouseWheelZoom": true,
+
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": true,
+    "editor.bracketPairColorization.enabled": true,
+    // 
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.suggestSelection": "recentlyUsed",
+    "window.dialogStyle": "custom",
+    "debug.showBreakpointsInOverviewRuler": true,
+
+    "workbench.list.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "smooth",
+
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+
+    "editor.tokenColorCustomizations": {
+        "comments": "#4c5666"
+        // origin: #636E86
+    }
+}
+
+// 【【教程】vscode优化体验篇(推荐设置 && 推荐插件)】 https://www.bilibili.com/video/BV1Hd4y1o7CN/?share_source=copy_web&vd_source=aabf0e41794a00d063397b838394347b
